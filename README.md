@@ -10,7 +10,7 @@ Kotlin Android quiz app for IMAD assignment
 ![alt text](image-3.png)
 
 ## Links
-Word Document: C:\Users\27784\Documents\Life Hack - docx
+Word Document: C:\Users\27784\Documents\Life Hack.docx
 
 ### Youtube
 
