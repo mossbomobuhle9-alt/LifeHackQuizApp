@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F5F6FA</color>
+    <color name="primary">#6C63FF</color>
+    <color name="primaryDark">#4B47C2</color>
+    <color name="textDark">#222222</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Life Hack - The Flashcard Game</string>
+    <style name="Base.Theme.LifeHackTheFlashcardGame" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.LifeHackTheFlashcardGame" parent="Base.Theme.LifeHackTheFlashcardGame"/>
+</resources>
