@@ -1,6 +1,7 @@
 # LifeHackQuizApp
-Kotlin Android quiz app for IMAD assignment
+
 ### Theory (Purpose, Design, GitHub, GitHub Actions)
+Kotlin Android quiz app for IMAD assignment
 
 ## Screenshots
 ![alt text](image.png)
@@ -9,7 +10,7 @@ Kotlin Android quiz app for IMAD assignment
 ![alt text](image-3.png)
 
 ## Links
-Word Document: C:\Users\27784\Documents\Life Hack - Copy.docx
+Word Document: C:\Users\27784\Documents\Life Hack - docx
 
 ### Youtube
 
